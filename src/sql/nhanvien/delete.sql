@@ -1,0 +1,1 @@
+delete from nhanvien where ID = ?
